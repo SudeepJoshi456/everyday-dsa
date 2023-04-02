@@ -1,4 +1,4 @@
-## I have created this repository to share each and every algorithm I solve while learning DSA. 
+## I have created this repository to share each and every algorithm I solve while learning DSA in JAVA. 
 
 ### I take this as a motivator to push something regularly and improve my skills everyday. 
 
